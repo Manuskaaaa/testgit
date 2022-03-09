@@ -1,3 +1,3 @@
 # Gitujeme o 100 šesť
 
-Ucim sa s kurzu Git / GitHub by Yablko
+Ucim sa s kurzu Git / GitHub 🇸🇰 by **Yablko** https://robweb.sk
